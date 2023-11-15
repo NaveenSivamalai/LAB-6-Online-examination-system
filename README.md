@@ -40,4 +40,4 @@ the hall ticket to the applicants. The applicants can download the hall tickets 
 
 ### RESULT:
 Thus the project to develop Exam Registration system was developed using Star UML
-Software is done successfully.
+Software is done successfully
